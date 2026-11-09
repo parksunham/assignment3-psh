@@ -8,3 +8,4 @@ def Avg(x, y):
 
 def Pow(x, y):
     return x ** y
+#송현준입니다.
